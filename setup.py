@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 README = open(os.path.join(os.path.dirname(__file__), 'README.md')).read()
 setup(
     name='shiprocket',
-    version='0.0.1',
+    version='1.0.1',
     packages=find_packages(),
     url='https://github.com/pupattan/shiprocket',
     license='MIT',
@@ -16,8 +16,6 @@ setup(
     author_email='pkbsdmp@gmail.com',
     description='Python APIs for shiprocket.in',
     classifiers =[
-        'Environment :: Web Environment',
-        'Framework :: Django',
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'Topic :: Software Development'
