@@ -1,2 +1,2 @@
 # shiprocket
-Python APIs for shiprocket.in 
+Python SDK for shiprocket
